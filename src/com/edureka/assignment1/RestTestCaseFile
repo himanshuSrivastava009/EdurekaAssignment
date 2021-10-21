@@ -1,0 +1,2 @@
+tc (|api id=TestCase-0001::desc=DELETEFOLDERBYPATHNEW SOURCE form NF [TC_ID=]::name=DeleteFolderByPathNew::type=json::verb=delete|)(|val respcode=200|)(|parm title=SIEM_DATASET::path=/Home Workspace/Net Folders/SIEM::username=automation1::password=n0v3ll|)
+tc (|api id=TestCase-0002::desc=DELETEFOLDERBYPATHNEW SOURCE from Personal Storage [TC_ID=]::name=DeleteFolderByPathNew::type=json::verb=delete|)(|val respcode=200|)(|parm title=SIEMEVENTFOLDERUPLOAD_Quota_limit::path=/Home Workspace/Personal Workspaces/DFS Novell (dfs)::username=dfs::password=novell|)

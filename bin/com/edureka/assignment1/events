@@ -1,0 +1,1 @@
+2021-08-17 18:14:08,242 INFO  [https-openssl-nio-8443-exec-4]  [com.novell.teaming.siem.cef.publish.CefEventLogPublisher] - CEF:1|Micro Focus|Filr|4.3|Add User|Add User|0|shost=blr8-100-182.labs.blr.novell.com dvc=164.99.238.204 suid=admin (admin) fileType=User fileCreateTime=Aug 17 2021 12:44:08.242 GMT filePath=/Home Workspace/Personal Workspaces fname=Iam1 groot123
